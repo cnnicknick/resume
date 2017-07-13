@@ -2,9 +2,9 @@
 
 nick的Github 简历，记录自己的前端学习足迹。
 
-微信公众号：##前端入门到精通
+微信公众号：前端入门到精通
 
-微信小程序：##宝庆生活小助手
+微信小程序：宝庆生活小助手
 
 GitHub个人主页： [https://cnnicknick.github.io/homepage/homepage/](https://cnnicknick.github.io/homepage/homepage/)
 
@@ -12,4 +12,4 @@ GitHub个人主页： [https://cnnicknick.github.io/homepage/homepage/](https://
 
 Stay hungry,stay foolish.
 
-#@深圳
+@深圳
